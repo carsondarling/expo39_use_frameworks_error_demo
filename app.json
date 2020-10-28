@@ -1,0 +1,12 @@
+{
+  "name": "expo39-use-frameworks-error-demo",
+  "displayName": "expo39-use-frameworks-error-demo",
+  "expo": {
+    "name": "expo39-use-frameworks-error-demo",
+    "slug": "expo39-use-frameworks-error-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
